@@ -1,0 +1,1723 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-11-17 18:04+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/Migration/MigrationModal.tsx:249
+#: src/components/Migration/MigrationModalSingle.tsx:237
+msgid "(includes rebase rewards)"
+msgstr "(inclui recompensas de rebase)"
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:124
+msgid "5 Days"
+msgstr ""
+
+#: src/views/Give/hooks/useEditGive.ts:107
+msgid "A decrease Give amount must be positive"
+msgstr ""
+
+#: src/views/Give/hooks/useGive.ts:33
+msgid "A give amount must be positive"
+msgstr ""
+
+#: src/views/Zap/ZapInfo.tsx:95
+msgid "A zap swap is a series of smart contracts that deploys one asset to another protocol to handle a trusted transaction."
+msgstr "Uma troca no Zap é uma série de smart contracts que colocam um ativo noutro protocolo para levar a cabo uma transação confiável."
+
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:80
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:145
+#: src/views/V1-Stake/V1-Stake.jsx:185
+msgid "APY"
+msgstr "APY"
+
+#: src/components/TopBar/Wallet/Info/Proposals.tsx:46
+msgid "Active"
+msgstr ""
+
+#: src/views/Zap/SlippageModal.tsx:62
+msgid "Adjust Slippage"
+msgstr ""
+
+#: src/views/V1-Stake/V1-Stake.jsx:236
+msgid "All your assets are migrated"
+msgstr "Todos os seus ativos estão migrados"
+
+#: src/views/Zap/ZapCta.tsx:51
+msgid "All-in-One contract to save time"
+msgstr "Contrato tudo-em-um para poupar tempo"
+
+#: src/views/Zap/ZapInfo.tsx:118
+msgid "All-in-one easy staking"
+msgstr "Staking fácil tudo-em-um"
+
+#: src/views/Zap/ZapInfo.tsx:113
+msgid "All-in-one zap contracts"
+msgstr "Contratos Zap tudo-em-um"
+
+#: src/views/Give/ManageDonationModal.tsx:582
+msgid "Amount"
+msgstr ""
+
+#: src/views/Give/hooks/useEditGive.ts:34
+msgid "An increase Give amount must be positive"
+msgstr ""
+
+#: src/views/TreasuryDashboard/treasuryData.ts:203
+msgid "Annual Percentage Yield, is the normalized representation of an interest rate, based on a compounding period over one year. Note that APYs provided are rather ballpark level indicators and not so much precise future results."
+msgstr "O Rendimento Percentual Anual (Annual Percentage Yield, APY) é a representação normalizada de uma taxa de juro, baseada num período de capitalização de um ano. Note que os APY's previstos são uma estimativa, e não tanto um cálculo preciso de futuros resultados."
+
+#: src/views/Zap/ZapStakeHeader.tsx:29
+msgid "Any asset"
+msgstr "Qualquer ativo"
+
+#: src/components/Migration/MigrationModal.tsx:206
+#: src/components/Migration/MigrationModal.tsx:303
+#: src/components/Migration/MigrationModalSingle.tsx:194
+#: src/components/Migration/MigrationModalSingle.tsx:297
+#: src/views/V1-Stake/V1-Stake.jsx:337
+#: src/views/Zap/ZapStakeAction.tsx:524
+msgid "Approve"
+msgstr "Aprovar"
+
+#: src/components/Migration/MigrationModal.tsx:190
+#: src/components/Migration/MigrationModal.tsx:288
+#: src/views/Zap/ZapStakeAction.tsx:517
+msgid "Approved"
+msgstr "Aprovado"
+
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:72
+msgid "Asset"
+msgstr "Ativo"
+
+#: src/views/Zap/ZapStakeHeader.tsx:56
+msgid "Auto staked"
+msgstr ""
+
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:83
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:204
+msgid "Balance"
+msgstr "Saldo"
+
+#: src/views/Give/RecipientModal.tsx:378
+msgid "Balance:"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:343
+#~ msgid "Balance: {0} sGVI"
+#~ msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:50
+#: src/views/Bond/Bond.tsx:27
+#: src/views/Bond/Bond.tsx:45
+#: src/views/Bond/components/BondList.tsx:137
+#: src/views/Bond/components/BondList.tsx:138
+msgid "Bond"
+msgstr "Obrigação"
+
+#: src/views/Bond/components/BondModal/BondModal.tsx:105
+msgid "Bond Price"
+msgstr "Preço da Obrigação"
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:114
+msgid "Bond {0}"
+msgstr "Obrigação {0}"
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:223
+msgid "Borrow on Impermax"
+msgstr ""
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:199
+#: src/components/TopBar/Wallet/GetOhm.tsx:207
+msgid "Borrow on Market.xyz"
+msgstr ""
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:190
+msgid "Borrow on Rari"
+msgstr ""
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:215
+msgid "Borrow on Vesta Finance"
+msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:65
+#: src/components/Sidebar/NavContent.tsx:85
+msgid "Bridge"
+msgstr "Fazer Ponte"
+
+#: src/components/Sidebar/NavContent.tsx:97
+msgid "Bug Bounty"
+msgstr "Recompensas para Bugs"
+
+#: src/views/Give/ManageDonationModal.tsx:697
+msgid "Cancel"
+msgstr ""
+
+#: src/views/Give/Give.tsx:89
+msgid "Causes"
+msgstr ""
+
+#: src/components/TopBar/ThemeSwitch.tsx:12
+msgid "Change Theme"
+msgstr "Mudar Tema"
+
+#: src/components/TopBar/TopBar.tsx:73
+msgid "Change locale"
+msgstr "Mudar de local"
+
+#: src/views/Bond/components/BondModal/components/BondSettingsModal.tsx:62
+msgid "Choose recipient address. By default, this is your currently connected address"
+msgstr "Escolha o endereço do beneficiário. Por defeito, é o endereço que tem actualmente ligado."
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:67
+msgid "Circulating Supply (total)"
+msgstr "Total em circulação"
+
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:124
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:194
+msgid "Claim"
+msgstr "Resgatar"
+
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:77
+msgid "Claim All"
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:58
+msgid "Claimable Balance"
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/hooks/useClaimBonds.ts:64
+msgid "Claimed all bonds successfully"
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/hooks/useClaimBonds.ts:64
+msgid "Claimed bond successfully"
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:76
+msgid "Claiming all..."
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:123
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:193
+msgid "Claiming..."
+msgstr ""
+
+#: src/components/Migration/MigrationModal.tsx:134
+msgid "Click on the Migrate button to complete the upgrade to v2."
+msgstr "Clique no botao Migrar para completar o upgrade para v2."
+
+#: src/components/TopBar/Wallet/Info/Proposals.tsx:46
+msgid "Closed"
+msgstr ""
+
+#: src/components/GiveProject/ProjectCard.tsx:202
+msgid "Completed"
+msgstr "Completo"
+
+#: src/views/Give/RecipientModal.tsx:548
+msgid "Confirm"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:732
+msgid "Confirm New"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:657
+#~ msgid "Confirm New sGVI"
+#~ msgstr ""
+
+#: src/components/TopBar/TopBar.tsx:65
+msgid "Connect"
+msgstr ""
+
+#: src/components/ConnectButton/ConnectButton.tsx:10
+#: src/components/GiveProject/GrantCard.tsx:539
+#: src/components/GiveProject/ProjectCard.tsx:625
+#: src/components/TopBar/Wallet/index.tsx:68
+#: src/components/TopBar/Wallet/index.tsx:78
+msgid "Connect Wallet"
+msgstr "Ligar Wallet"
+
+#: src/views/V1-Stake/V1-Stake.jsx:211
+msgid "Connect your wallet to stake GVI"
+msgstr "Ligue a sua wallet para fazer Staking de GVI"
+
+#: src/views/Zap/Zap.tsx:45
+msgid "Connect your wallet to use Zap"
+msgstr "Ligue a sua wallet para usar o Zap"
+
+#: src/views/Give/ManageDonationModal.tsx:620
+#: src/views/Give/RecipientModal.tsx:463
+msgid "Continue"
+msgstr "Continuar"
+
+#: src/views/Give/ManageDonationModal.tsx:636
+#: src/views/TreasuryDashboard/treasuryData.ts:191
+msgid "Current"
+msgstr "Currente"
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:98
+#: src/views/V1-Stake/V1-Stake.jsx:197
+msgid "Current Index"
+msgstr "Índice Atual"
+
+#: src/views/Give/ManageDonationModal.tsx:563
+#~ msgid "Current sGVI deposit"
+#~ msgstr ""
+
+#: src/views/Give/YieldRecipients.tsx:61
+msgid "DATE"
+msgstr ""
+
+#: src/views/Give/YieldRecipients.tsx:73
+msgid "DEPOSITED"
+msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:48
+msgid "Dashboard"
+msgstr "Painel de Ferramentas"
+
+#: src/views/Give/ManageDonationModal.tsx:475
+msgid "Date"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:369
+#: src/views/Give/RecipientModal.tsx:495
+msgid "Deposit"
+msgstr ""
+
+#: src/components/GiveProject/ProjectCard.tsx:311
+msgid "Deposit Goal"
+msgstr ""
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:163
+msgid "Deposit on Dopex"
+msgstr ""
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:171
+msgid "Deposit on Jones DAO"
+msgstr ""
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:179
+msgid "Deposit on Tokemak"
+msgstr ""
+
+#: src/components/EducationCard.tsx:138
+msgid "Deposit sGVI from wallet"
+msgstr "Depositar sGVI da sua wallet"
+
+#: src/components/GiveProject/GrantCard.tsx:574
+#: src/components/GiveProject/ProjectCard.tsx:361
+#: src/components/GiveProject/ProjectCard.tsx:661
+#: src/views/Give/ManageDonationModal.tsx:478
+msgid "Deposited"
+msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:230
+msgid "Deposited sGVI"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:731
+#: src/views/Give/RecipientModal.tsx:547
+msgid "Depositing"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:657
+#: src/views/Give/RecipientModal.tsx:507
+#~ msgid "Depositing sGVI"
+#~ msgstr ""
+
+#: src/views/Zap/SelectTokenModal.tsx:64
+msgid "Dialing Zapper..."
+msgstr "A ligar o Zapper..."
+
+#: src/components/TopBar/Wallet/index.tsx:90
+msgid "Disconnect"
+msgstr "Desligar"
+
+#: src/views/Bond/components/BondList.tsx:105
+#: src/views/Bond/components/BondList.tsx:165
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:166
+msgid "Discount"
+msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:95
+msgid "Docs"
+msgstr "Documentação"
+
+#: src/components/GiveProject/GrantCard.tsx:549
+#: src/components/GiveProject/ProjectCard.tsx:635
+#: src/views/Give/RecipientModal.tsx:215
+msgid "Donate Yield"
+msgstr "Doar Rendimento"
+
+#: src/views/Give/YieldRecipients.tsx:46
+msgid "Donate to a cause"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:445
+msgid "Donated"
+msgstr ""
+
+#: src/components/GiveProject/GrantCard.tsx:263
+#: src/components/GiveProject/ProjectCard.tsx:344
+msgid "Donors"
+msgstr "Doadores"
+
+#: src/views/Bond/components/BondList.tsx:124
+#: src/views/Bond/components/BondList.tsx:170
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:175
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:139
+msgid "Duration"
+msgstr "Duração"
+
+#: src/components/Migration/MigrationModalSingle.tsx:312
+msgid "Each asset type requires two transactions. First Approve, then Migrate each asset. Amounts less than than 10$ are ignored."
+msgstr "Cada tipo de ativo requer duas transações. Primeiro Aprove, depois migre cada ativo. Quantias inferiores a 10$ são ignoradas."
+
+#: src/components/GiveProject/GrantCard.tsx:603
+#: src/components/GiveProject/ProjectCard.tsx:688
+#: src/views/Give/ManageDonationModal.tsx:396
+msgid "Edit Donation"
+msgstr ""
+
+#: src/views/Zap/ZapStakeAction.tsx:486
+#: src/views/Zap/ZapStakeAction.tsx:550
+msgid "Enter Amount"
+msgstr "Insira Quantia"
+
+#: src/views/Give/RecipientModal.tsx:313
+msgid "Enter a wallet address in the form of 0x ..."
+msgstr "Insira um endereço de wallet no formato 0x ..."
+
+#: src/views/Give/ManageDonationModal.tsx:594
+#: src/views/Give/RecipientModal.tsx:386
+msgid "Enter an amount"
+msgstr "Insira uma quantia"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:111
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:130
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:104
+msgid "Enter an amount of"
+msgstr ""
+
+#: src/views/Wrap/components/MigrateInputArea/MigrateInputArea.tsx:76
+msgid "Enter an amount of wsGVI"
+msgstr ""
+
+#: src/views/Zap/ZapStakeAction.tsx:441
+msgid "Exchange Rate"
+msgstr "Taxa de Câmbio"
+
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:67
+msgid "Farm Pool"
+msgstr "Farm Pool"
+
+#: src/components/GiveProject/ProjectCard.tsx:215
+msgid "Finishes at {0} in your timezone"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:97
+msgid "First time bonding"
+msgstr "Primeira vez a comprar"
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:106
+msgid "First time staking"
+msgstr "Primeira vez a fazer staking de"
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:112
+#: src/views/V1-Stake/V1-Stake.jsx:251
+msgid "First time unstaking"
+msgstr "Primeira vez fazer unstaking de"
+
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:85
+msgid "First time unwrapping"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:79
+msgid "First time wrapping"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/BondModal.tsx:91
+msgid "Fixed Expiration"
+msgstr "Expiração Fixa"
+
+#: src/views/Bond/components/BondModal/BondModal.tsx:91
+msgid "Fixed Term"
+msgstr "Termo Fixo"
+
+#: src/components/Sidebar/NavContent.tsx:91
+msgid "Forum"
+msgstr "Fórum"
+
+#: src/views/Bond/components/BondList.tsx:82
+#: src/views/Bond/components/BondList.tsx:229
+msgid "Get Asset"
+msgstr ""
+
+#: src/components/CallToAction/CallToAction.tsx:53
+msgid "Get Started"
+msgstr "Iniciar"
+
+#: src/components/Sidebar/NavContent.tsx:59
+#: src/views/Give/Give.tsx:71
+msgid "Give"
+msgstr "Doar"
+
+#: src/hooks/useGiveInfo.ts:68
+#: src/hooks/useGiveInfo.ts:177
+#: src/hooks/useGiveInfo.ts:220
+#: src/hooks/useGiveInfo.ts:278
+#: src/hooks/useGiveInfo.ts:366
+#: src/hooks/useGiveInfo.ts:442
+#: src/views/Give/hooks/useEditGive.ts:39
+#: src/views/Give/hooks/useEditGive.ts:112
+#: src/views/Give/hooks/useGive.ts:38
+#: src/views/Give/hooks/useRedeem.ts:31
+#: src/views/Give/hooks/useRedeemV1.ts:32
+msgid "Give is not supported on this network. Please switch to a supported network, such as Ethereum mainnet"
+msgstr ""
+
+#: src/views/V1-Stake/V1-Stake.jsx:307
+msgid "Go to Stake V2"
+msgstr "Ir para Staking V2"
+
+#: src/views/Give/ManageDonationModal.tsx:435
+#: src/views/Give/ManageDonationModal.tsx:435
+#: src/views/Give/ManageDonationModal.tsx:460
+msgid "Goal"
+msgstr ""
+
+#: src/views/Wrap/components/WrapSwitchNetwork.tsx:41
+msgid "Got wsGVI on Avalanche or Arbitrum? Click below to switch networks and migrate to gGVI (no bridge required!)"
+msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:93
+msgid "Governance"
+msgstr "Governança"
+
+#: src/components/Sidebar/NavContent.tsx:99
+#: src/views/Give/Give.tsx:92
+msgid "Grants"
+msgstr ""
+
+#: src/views/TreasuryDashboard/treasuryData.ts:201
+msgid "Holders, represents the total number of Ohmies (sGVI holders)"
+msgstr "Titulares, representa o número total de Ohmies (titulares de sGVI)"
+
+#: src/views/Bond/components/BondInfoText.tsx:6
+msgid "Important: Inverse bonds allow you to bond your GVI for treasury assets. Vesting time is 0 and payouts are instant."
+msgstr ""
+
+#: src/views/Bond/components/BondInfoText.tsx:7
+msgid "Important: New bonds are auto-staked (accrue rebase rewards) and no longer vest linearly. Simply claim as sGVI or gGVI at the end of the term."
+msgstr ""
+
+#: src/views/Zap/SlippageModal.tsx:70
+msgid "Important: Recommended slippage is 1-3% to avoid a failed transaction."
+msgstr ""
+
+#: src/hooks/useZapExecute.ts:123
+msgid "Insufficient balance."
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/hooks/useClaimBonds.ts:29
+msgid "Invalid address"
+msgstr ""
+
+#: src/views/Bond/Bond.tsx:27
+#: src/views/Bond/Bond.tsx:46
+msgid "Inverse Bond"
+msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:159
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:79
+msgid "Inverse Bonds"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:359
+msgid "Is this your first time donating"
+msgstr ""
+
+#: src/components/CallToAction/CallToAction.tsx:17
+#: src/components/Migration/MigrationModal.tsx:144
+#: src/components/Migration/MigrationModalSingle.tsx:126
+#: src/views/Give/GiveInfo.tsx:28
+msgid "Learn More"
+msgstr "Saber Mais"
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:82
+msgid "Liquid Backing per GVI"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:83
+msgid "Liquid Treasury Backing does not include LP GVI, locked assets, or reserves used for RFV backing. It represents the budget the Treasury has for specific market operations which cannot use GVI (inverse bonds, some liquidity provision, GVI incentives, etc)"
+msgstr ""
+
+#: src/components/EducationCard.tsx:149
+msgid "Lock sGVI in vault"
+msgstr "Guardar sGVI no cofre"
+
+#: src/views/Give/YieldRecipients.tsx:40
+msgid "Looks like you haven’t made any donations yet"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:24
+msgid "Market Cap"
+msgstr "Valor de Mercado"
+
+#: src/views/Bond/components/BondModal/BondModal.tsx:115
+msgid "Market Price"
+msgstr "Preço de Mercado"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:192
+msgid "Market SLP"
+msgstr "Mercado SLP"
+
+#: src/views/TreasuryDashboard/components/Graph/Graph.js:58
+msgid "Market Value of Treasury Assets"
+msgstr "Valor de Mercado dos Ativos do Tesouro"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:198
+msgid "Market Value of Treasury Assets, is the sum of the value (in dollars) of all assets held by the treasury (Excluding pTokens and Vested tokens)."
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:107
+#: src/views/Give/ManageDonationModal.tsx:607
+#: src/views/Give/RecipientModal.tsx:397
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:126
+#: src/views/Wrap/components/MigrateInputArea/MigrateInputArea.tsx:73
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:99
+msgid "Max"
+msgstr "Máximo"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:154
+msgid "Max You Can Buy"
+msgstr "Máximo Que Pode Comprar"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:154
+msgid "Max You Can Sell"
+msgstr ""
+
+#: src/components/Migration/MigrationModalSingle.tsx:178
+#: src/components/Migration/MigrationModalSingle.tsx:281
+#: src/views/V1-Stake/V1-Stake.jsx:294
+msgid "Migrate"
+msgstr "Migrar"
+
+#: src/components/Migration/MigrationModal.tsx:330
+msgid "Migrate all to"
+msgstr "Migrar tudo para"
+
+#: src/components/Migration/MigrationModal.tsx:186
+#: src/components/Migration/MigrationModal.tsx:284
+#: src/components/Migration/MigrationModalSingle.tsx:169
+#: src/components/Migration/MigrationModalSingle.tsx:272
+msgid "Migrated"
+msgstr "Migrado"
+
+#: src/components/Migration/MigrationModal.tsx:152
+#: src/components/Migration/MigrationModalSingle.tsx:134
+msgid "Migration Output"
+msgstr "Resultado da Migração"
+
+#: src/components/Migration/MigrationModal.tsx:123
+#: src/components/Migration/MigrationModalSingle.tsx:111
+msgid "Migration complete"
+msgstr "Migração completa"
+
+#: src/components/GiveProject/GrantCard.tsx:221
+msgid "Milestone {0}: {1} sGVI"
+msgstr ""
+
+#: src/views/Zap/ZapStakeAction.tsx:490
+#: src/views/Zap/ZapStakeAction.tsx:554
+msgid "Minimum Output Amount: 0.5"
+msgstr ""
+
+#: src/views/Zap/ZapStakeAction.tsx:459
+msgid "Minimum You Get"
+msgstr "Mínimo Que Receberá"
+
+#: src/hooks/useZapExecute.ts:63
+msgid "Minimum amount must be greater than 0"
+msgstr ""
+
+#: src/views/Give/Give.tsx:95
+msgid "My Donations"
+msgstr "As minhas Doações"
+
+#: src/views/Give/RedeemYieldModal.tsx:91
+msgid "My Wallet Address"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:168
+msgid "Negative discount is bad (you pay more than the market value). The bond discount is the percentage difference between"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:162
+#~ msgid "Negative discount is bad (you pay more than the market value). The bond discount is the percentage difference between GVI's market value and the bond's price."
+#~ msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:582
+#: src/views/Give/ManageDonationModal.tsx:656
+msgid "New"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:511
+#~ msgid "New sGVI Amount"
+#~ msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:582
+#~ msgid "New sGVI deposit"
+#~ msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:243
+#: src/views/Stake/components/StakeArea/components/StakeNextRebaseAmount.tsx:54
+#: src/views/V1-Stake/V1-Stake.jsx:390
+msgid "Next Reward Amount"
+msgstr "Quantia do Próximo Rendimento"
+
+#: src/views/Give/RedeemYield.tsx:249
+#: src/views/Stake/components/StakeArea/components/StakeRebaseYield.tsx:9
+#: src/views/V1-Stake/V1-Stake.jsx:395
+msgid "Next Reward Yield"
+msgstr "Rendimento do Próximo Rendimento"
+
+#: src/views/Bond/components/BondList.tsx:34
+msgid "No active bonds"
+msgstr ""
+
+#: src/components/GiveProject/GrantCard.tsx:355
+#: src/components/GiveProject/GrantCard.tsx:355
+msgid "No wallet set or user is not donating to this recipient"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Graph/Graph.js:148
+msgid "GVI Staked"
+msgstr "GVI em Staking"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:202
+msgid "GVI Staked is the ratio of sGVI to circulating supply of GVI (staked vs total)"
+msgstr "GVI em Staking é o rácio entre o sGVI e o total de GVI em circulação (em staking vs total)"
+
+#: src/views/Zap/ZapInfo.tsx:121
+msgid "OlyZap reduces complexity, saves you time and keeps you here on Tech Holding JSC."
+msgstr "O OlyZap reduz a complexidade, poupa-lhe tempo e mantém-no aqui em Tech Holding JSC."
+
+#: src/components/EducationCard.tsx:139
+msgid "Tech Holding JSC Give is a means of directing the yield that is accrued on your sGVI to another wallet. The first step is depositing your sGVI and specifying a recipient."
+msgstr "O Tech Holding JSC Give é uma forma de direccionar o rendimento que é acumulado pelo seu sGVI para outra wallet. O primeiro passo é depositar o seu sGVI e especificar um beneficiário."
+
+#: src/components/Sidebar/NavContent.tsx:73
+#: src/views/TreasuryDashboard/TreasuryDashboard.tsx:115
+msgid "Tech Holding JSC Pro"
+msgstr "Tech Holding JSC Pro"
+
+#: src/components/Migration/MigrationModal.tsx:135
+#: src/components/Migration/MigrationModalSingle.tsx:117
+msgid "Tech Holding JSC v2 introduces upgrades to on-chain governance and bonds to enhance decentralization and immutability."
+msgstr "O Tech Holding JSC v2 introduz upgrades à governança on-chain e às obrigações de forma a melhorar a descentralização e imutabilidade."
+
+#: src/views/TreasuryDashboard/TreasuryDashboard.tsx:112
+msgid "Overview"
+msgstr ""
+
+#: src/views/404/NotFound.tsx:16
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: src/views/Bond/components/BondList.tsx:114
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:145
+msgid "Payout"
+msgstr "Pagamento"
+
+#: src/views/Bond/components/BondList.tsx:156
+msgid "Payout Asset"
+msgstr ""
+
+#: src/slices/PendingTxnsSlice.ts:38
+#: src/slices/PendingTxnsSlice.ts:42
+#: src/slices/PendingTxnsSlice.ts:46
+#: src/views/Zap/ZapStakeAction.tsx:484
+#: src/views/Zap/ZapStakeAction.tsx:524
+msgid "Pending..."
+msgstr "Pendente..."
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:98
+#: src/views/Give/RecipientModal.tsx:360
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:108
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:114
+#: src/views/Wrap/components/MigrateInputArea/MigrateInputArea.tsx:62
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:81
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:87
+msgid "Please approve Tech Holding JSC DAO to use your"
+msgstr ""
+
+#: src/views/V1-Stake/V1-Stake.jsx:253
+msgid "Please approve Tech Holding JSC Dao to use your"
+msgstr "Por favor aprove que o Tech Holding JSC Dao use o seu"
+
+#: src/views/Bond/components/ClaimBonds/hooks/useClaimBonds.ts:22
+msgid "Please connect a wallet to claim bonds"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:65
+msgid "Please connect a wallet to purchase a bond"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:200
+msgid "Please enter a different address: cannot direct to the same wallet"
+msgstr "Por favor insira um endereço diferente: não é possível direccionar para a mesma wallet"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:36
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:25
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:27
+#: src/views/Wrap/components/MigrateInputArea/hooks/useMigrateWsgvi.tsx:24
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:24
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:24
+msgid "Please enter a number"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:42
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:29
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:31
+#: src/views/Wrap/components/MigrateInputArea/hooks/useMigrateWsgvi.tsx:28
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:28
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:28
+msgid "Please enter a number greater than 0"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:44
+msgid "Please enter a slippage amount greater than 0"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:194
+msgid "Please enter a valid Ethereum address"
+msgstr "Por favor insira um endereço de Ethereum válido"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:63
+msgid "Please enter a valid address as the recipient address"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:37
+msgid "Please enter a valid slippage amount"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:276
+#: src/views/Give/RecipientModal.tsx:148
+msgid "Please enter a value"
+msgstr "Por favor insira um valor"
+
+#: src/components/GiveProject/GrantCard.tsx:331
+#: src/components/GiveProject/GrantCard.tsx:331
+#: src/components/GiveProject/GrantCard.tsx:359
+#: src/components/GiveProject/GrantCard.tsx:359
+#: src/components/GiveProject/ProjectCard.tsx:412
+#: src/components/GiveProject/ProjectCard.tsx:412
+#: src/components/GiveProject/ProjectCard.tsx:434
+#: src/components/GiveProject/ProjectCard.tsx:434
+#: src/views/Give/CausesDashboard.tsx:74
+#: src/views/Give/CausesDashboard.tsx:74
+#: src/views/Give/DepositRow.tsx:89
+#: src/views/Give/DepositRow.tsx:89
+#: src/views/Give/GrantsDashboard.tsx:74
+#: src/views/Give/GrantsDashboard.tsx:74
+msgid "Please enter a value!"
+msgstr "Por favor insira um valor!"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:46
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:31
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:37
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:33
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:39
+#: src/views/Wrap/components/MigrateInputArea/hooks/useMigrateWsgvi.tsx:35
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:30
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:36
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:30
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:36
+msgid "Please refresh your page and try again"
+msgstr ""
+
+#: src/views/Wrap/components/MigrateInputArea/hooks/useMigrateWsgvi.tsx:31
+msgid "Please switch to the Abritrum or Avalanche networks to migrate"
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/hooks/useClaimBonds.ts:26
+msgid "Please switch to the Ethereum network to claim all bonds"
+msgstr ""
+
+#: src/views/Bond/components/ClaimBonds/hooks/useClaimBonds.ts:27
+msgid "Please switch to the Ethereum network to claim this bond"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:68
+msgid "Please switch to the Ethereum network to purchase this bond"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:35
+msgid "Please switch to the Ethereum network to stake your GVI"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:37
+msgid "Please switch to the Ethereum network to unstake your"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:34
+msgid "Please switch to the Ethereum network to unwrap your gGVI"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:34
+msgid "Please switch to the Ethereum network to wrap your sGVI"
+msgstr ""
+
+#: src/components/Migration/MigrationModal.tsx:239
+#: src/components/Migration/MigrationModalSingle.tsx:227
+msgid "Post-migration"
+msgstr "Pós-migração"
+
+#: src/components/Migration/MigrationModal.tsx:226
+#: src/components/Migration/MigrationModalSingle.tsx:214
+msgid "Pre-migration"
+msgstr "Pré-migração"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:166
+msgid "Premium"
+msgstr ""
+
+#: src/views/Bond/components/BondList.tsx:95
+#: src/views/Bond/components/BondList.tsx:161
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:38
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:52
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:113
+msgid "Price"
+msgstr "Preço"
+
+#: src/views/TreasuryDashboard/TreasuryDashboard.tsx:116
+msgid "Proteus"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Graph/Graph.js:120
+msgid "Protocol Owned Liquidity GVI-DAI"
+msgstr "Liquidez de GVI-DAI Detida pelo Protocolo"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:200
+msgid "Protocol Owned Liquidity, is the amount of LP the treasury owns and controls. The more POL the better for the protocol and its users."
+msgstr "Liquidez Detida pelo Protocolo, é a quantidade de LP que a tesouraria detém e controla. Quanto maior for a Liquidez Detida pelo Protocolo, melhor para o protocolo e os seus utilizadores."
+
+#: src/views/Give/YieldRecipients.tsx:67
+msgid "RECIPIENT"
+msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:255
+#: src/views/Stake/components/StakeArea/components/StakeFiveDayYield.tsx:9
+#: src/views/V1-Stake/V1-Stake.jsx:400
+msgid "ROI (5-Day Rate)"
+msgstr "ROI (Taxa de 5 Dias)"
+
+#: src/components/EducationCard.tsx:84
+#~ msgid "Receives Yield from"
+#~ msgstr ""
+
+#: src/components/EducationCard.tsx:91
+msgid "Receives yield from"
+msgstr ""
+
+#: src/components/EducationCard.tsx:89
+#: src/components/EducationCard.tsx:160
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:182
+#: src/views/Give/ManageDonationModal.tsx:476
+msgid "Recipient"
+msgstr "Beneficiário"
+
+#: src/views/Bond/components/BondModal/components/BondSettingsModal.tsx:48
+#: src/views/Give/RecipientModal.tsx:404
+#: src/views/Give/RecipientModal.tsx:523
+msgid "Recipient Address"
+msgstr "Endereço do Beneficiário"
+
+#: src/components/EducationCard.tsx:161
+msgid "Recipient earns sGVI rebases"
+msgstr "O beneficiário recebe rebases de sGVI"
+
+#: src/views/Give/Give.tsx:98
+msgid "Redeem"
+msgstr "Resgatar"
+
+#: src/views/Give/RedeemYield.tsx:179
+#: src/views/Give/RedeemYieldModal.tsx:64
+msgid "Redeem Yield"
+msgstr "Resgatar Rendimento"
+
+#: src/views/Give/RedeemYieldModal.tsx:107
+msgid "Redeem {0} sGVI"
+msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:237
+msgid "Redeemable Amount"
+msgstr "Quantia Resgatável"
+
+#: src/views/Give/RedeemYieldModal.tsx:71
+msgid "Redeemable Yield"
+msgstr ""
+
+#: src/views/Give/RedeemYieldModal.tsx:106
+msgid "Redeeming {0} sGVI"
+msgstr ""
+
+#: src/components/GiveProject/ProjectCard.tsx:225
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:142
+msgid "Remaining"
+msgstr ""
+
+#: src/views/TreasuryDashboard/TreasuryDashboard.tsx:114
+msgid "Revenue"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Graph/Graph.js:93
+msgid "Risk Free Value of Treasury Assets"
+msgstr "Valor Livre de Risco dos Ativos do Tesouro"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:199
+msgid "Risk Free Value, is the amount of funds the treasury guarantees to use for backing GVI."
+msgstr "Valor Livre de Risco, é a quantidade de fundos que a tesouraria tem garantida para usar em backing de GVI."
+
+#: src/views/TreasuryDashboard/components/Graph/Graph.js:176
+msgid "Runway Available"
+msgstr "Margem Disponível"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:204
+msgid "Runway, is the number of days sGVI emissions can be sustained at a given rate. Lower APY = longer runway"
+msgstr "Margem, é o número de dias que as emissões de sGVI podem ser sustidas a uma data taxa. APY mais baixa = maior margem"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:192
+msgid "SLP Treasury"
+msgstr "Tesouro de SLP"
+
+#: src/components/Migration/MigrationModal.tsx:339
+msgid "Save on gas fees by migrating all your assets to the new gGVI or sGVI in one transaction. Each asset asset above must be approved before all can be migrated."
+msgstr "Poupe em taxas de gás ao migrar todos os seus ativos para o novo gGVI ou sGVI em uma única transação. Cada ativo tem de ser aprovado antes que todos possam ser migrados."
+
+#: src/views/Give/CausesDashboard.tsx:114
+msgid "Select Custom Recipient"
+msgstr ""
+
+#: src/views/Zap/SelectTokenModal.tsx:50
+#: src/views/Zap/ZapStakeAction.tsx:343
+#: src/views/Zap/ZapStakeAction.tsx:372
+msgid "Select Token"
+msgstr ""
+
+#: src/views/Zap/ZapStakeHeader.tsx:29
+msgid "Select any asset"
+msgstr "Seleccione qualquer ativo"
+
+#: src/views/Zap/SelectTokenModal.tsx:70
+msgid "Ser, you have no assets..."
+msgstr "Ser, não tem ativos..."
+
+#: src/views/V1-Stake/V1-Stake.jsx:179
+msgid "Single Stake"
+msgstr "Staking Simples"
+
+#: src/views/Stake/components/StakeArea/StakeArea.tsx:20
+msgid "Single Stake (3, 3)"
+msgstr "Staking Simples (3,3)"
+
+#: src/views/Bond/components/BondModal/components/BondSettingsModal.tsx:26
+msgid "Slippage"
+msgstr "Slippage"
+
+#: src/views/Zap/ZapStakeAction.tsx:429
+msgid "Slippage Tolerance"
+msgstr "Tolerância de Slippage"
+
+#: src/hooks/useZapExecute.ts:58
+msgid "Slippage should be a number"
+msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:55
+#: src/views/V1-Stake/V1-Stake.jsx:227
+msgid "Stake"
+msgstr "Fazer Staking"
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:122
+msgid "Stake Now"
+msgstr ""
+
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:168
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:211
+msgid "Stake on"
+msgstr "Fazer Staking em"
+
+#: src/views/Zap/ZapInfo.tsx:141
+msgid "Staking"
+msgstr "A fazer Staking"
+
+#: src/slices/PendingTxnsSlice.ts:28
+msgid "Staking GVI"
+msgstr "A fazer Staking de GVI"
+
+#: src/views/Zap/ZapInfo.tsx:144
+msgid "Staking is the primary value accrual strategy of Tech Holding JSC. When you stake, you lock GVI and receive an equal value of sGVI or gGVI."
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:401
+msgid "Stop Donation"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:127
+msgid "Successfully bonded"
+msgstr ""
+
+#: src/views/Give/hooks/useEditGive.ts:163
+msgid "Successfully decreased sGVI deposit"
+msgstr ""
+
+#: src/views/Give/hooks/useGive.ts:82
+msgid "Successfully deposited sGVI"
+msgstr ""
+
+#: src/views/Give/hooks/useEditGive.ts:82
+msgid "Successfully increased sGVI deposit"
+msgstr ""
+
+#: src/views/Wrap/components/MigrateInputArea/hooks/useMigrateWsgvi.tsx:62
+msgid "Successfully migrated from wsGVI to gGVI"
+msgstr ""
+
+#: src/views/Give/hooks/useRedeem.ts:71
+msgid "Successfully redeemed all available yield"
+msgstr ""
+
+#: src/views/Give/hooks/useRedeemV1.ts:73
+msgid "Successfully redeemed all yield off the old contract"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:70
+msgid "Successfully staked GVI"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:72
+msgid "Successfully unstaked"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:61
+msgid "Successfully unwrapped from gGVI to sGVI"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:61
+msgid "Successfully wrapped sGVI to gGVI"
+msgstr ""
+
+#: src/views/Zap/ZapStakeHeader.tsx:48
+msgid "Swap for GVI"
+msgstr "Trocar por GVI"
+
+#: src/views/Zap/ZapStakeHeader.tsx:38
+msgid "Swap for sGVI"
+msgstr "Trocar por sGVI"
+
+#: src/views/Zap/ZapCta.tsx:59
+msgid "Swap into sGVI"
+msgstr "Trocar para sGVI"
+
+#: src/views/Stake/components/ExternalStakePools/ExternalStakePools.tsx:76
+#: src/views/V1-Stake/V1-Stake.jsx:191
+msgid "TVL"
+msgstr "TVL"
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:99
+msgid "The current index tracks the amount of sGVI accumulated since the beginning of staking. Basically, how much sGVI one would have if they staked and held 1 GVI from launch."
+msgstr "O índice atual segue a quantidade de sGVI acumulado desde que o staking começou. Basicamente, quanto sGVI uma pessoa teria atualmente se tivesse feito e mantido staking de 1 GVI desde o lançamento do protocolo."
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:177
+msgid "The duration of the Bond whereby the bond can be claimed in it’s entirety.  Bonds are no longer vested linearly and are locked for entire duration."
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:155
+msgid "The maximum quantity of payout token we are able to offer via bonds at this moment in time."
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:53
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:59
+msgid "The maximum you can bond at this time is"
+msgstr ""
+
+#: src/hooks/useGiveInfo.ts:215
+#: src/views/Give/hooks/useRedeemV1.ts:28
+msgid "The old Give contract is only supported on the mainnet. Please switch to Ethereum mainnet"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:117
+msgid "The price of gGVI is equal to the price of GVI multiplied by the current index"
+msgstr "O preço de gGVI é igual ao preço de GVI multiplicado pelo índice atual"
+
+#: src/views/Give/RecipientModal.tsx:406
+msgid "The rebase rewards from the sGVI that you deposit will be redirected to the wallet address that you specify"
+msgstr ""
+
+#: src/components/EducationCard.tsx:162
+msgid ""
+"The recipient you specified, or the project you selected, will then receive the rebases associated with your\n"
+"sGVI deposit until you withdraw your sGVI principal from the vault."
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:525
+msgid "The specified wallet address will receive the rebase yield from the amount that you deposit."
+msgstr "A wallet especificada vai receber os rendimentos de rebase da quantia que depositar."
+
+#: src/hooks/useZapExecute.ts:60
+msgid "The tokenAddress parameter must be set"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:150
+msgid "The total amount of payout asset you will recieve from this bond purchase. (sGVI quantity will be higher due to rebasing)"
+msgstr ""
+
+#: src/components/EducationCard.tsx:150
+msgid ""
+"Then, your deposited sGVI is kept in a vault smart contract that will send your rebases to the recipient.\n"
+"You can withdraw or edit your principal sGVI amount at any time."
+msgstr ""
+
+#: src/components/Migration/MigrationModal.tsx:229
+#: src/components/Migration/MigrationModalSingle.tsx:217
+msgid "This is the current balance of v1 assets in your wallet."
+msgstr "Este é o seu saldo atual de ativos v1 na sua wallet."
+
+#: src/components/Migration/MigrationModal.tsx:242
+#: src/components/Migration/MigrationModalSingle.tsx:230
+msgid "This is the equivalent amount of gGVI you will have in your wallet once migration is complete."
+msgstr "Este é o valor equivalente de gGVI que terá na sua wallet assim que a migração estiver completa."
+
+#: src/components/Chart/Chart.tsx:546
+#: src/components/Chart/ExpandedChart.tsx:58
+msgid "Today"
+msgstr "Hoje"
+
+#: src/views/Bond/components/BondList.tsx:151
+#: src/views/Bond/components/ClaimBonds/ClaimBonds.tsx:136
+msgid "Token"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:445
+#: src/views/Give/ManageDonationModal.tsx:445
+msgid "Total"
+msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:160
+#~ msgid "Total Donated"
+#~ msgstr ""
+
+#: src/components/GiveProject/GrantCard.tsx:280
+msgid "Total Milestone Amount"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:83
+#: src/views/V1-Stake/V1-Stake.jsx:353
+msgid "Total Staked Balance"
+msgstr "Saldo Total em Staking"
+
+#: src/views/TreasuryDashboard/components/Graph/Graph.js:22
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:131
+#: src/views/TreasuryDashboard/treasuryData.ts:186
+msgid "Total Value Deposited"
+msgstr "Valor Total Depositado"
+
+#: src/views/TreasuryDashboard/treasuryData.ts:197
+msgid "Total Value Deposited, is the dollar amount of all GVI staked in the protocol. This metric is often used as growth or health indicator in DeFi projects."
+msgstr "Valor Total Depositado, é a quantia em dólares de todo o GVI em staking no protocolo. Esta métrica é frequentemente usada como indicador de crescimento ou saúde de projectos em DeFi."
+
+#: src/views/Give/RedeemYield.tsx:160
+#~ msgid "Total sGVI Donated"
+#~ msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondSettingsModal.tsx:41
+msgid "Transaction may revert if price changes by more than slippage %"
+msgstr "É possível que a transação reverta caso o preço mude mais do que a slippage %"
+
+#: src/hooks/useZapExecute.ts:121
+msgid "Transaction would fail due to slippage. Please use a higher slippage tolerance value."
+msgstr ""
+
+#: src/views/TreasuryDashboard/TreasuryDashboard.tsx:113
+msgid "Treasury"
+msgstr ""
+
+#: src/views/TreasuryDashboard/components/Metric/Metric.tsx:163
+msgid "Treasury Balance"
+msgstr "Saldo da Tesouraria"
+
+#: src/hooks/useZapExecute.ts:72
+msgid "Unable to access Zap contract on network {networkId}"
+msgstr ""
+
+#: src/hooks/useZapExecute.ts:78
+msgid "Unable to fetch address for token ({0}) on network {networkId}"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:96
+#: src/views/V1-Stake/V1-Stake.jsx:228
+msgid "Unstake"
+msgstr "Unstaking"
+
+#: src/views/V1-Stake/V1-Stake.jsx:325
+msgid "Unstake GVI"
+msgstr "Unstaking de GVI"
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:73
+#: src/views/V1-Stake/V1-Stake.jsx:345
+msgid "Unstaked Balance"
+msgstr "Saldo fora de Staking"
+
+#: src/slices/PendingTxnsSlice.ts:28
+msgid "Unstaking sGVI"
+msgstr "A fazer Unstaking de sGVI"
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:77
+msgid "Unstaking your GVI? Trade for Treasury Stables with no slippage & zero trading fees via"
+msgstr ""
+
+#: src/slices/PendingTxnsSlice.ts:32
+msgid "Unwrapping sGVI"
+msgstr "A Desembrulhar sGVI"
+
+#: src/views/Give/GrantsDashboard.tsx:90
+msgid "Upon receiving an Tech Holding JSC Grant, you gain exposure to the Tech Holding JSC Give ecosystem where your performance is rewarded every 8 hours through the yield your grant generates; you then can also receive support from other Ohmies and this acts as a loop that compounds value and amplifies the reach and growth of your mission."
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:294
+#: src/views/Give/RecipientModal.tsx:166
+msgid "Value cannot be more than your"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:233
+#~ msgid "Value cannot be more than your sGVI balance of"
+#~ msgstr "O valor não pode ser superior ao seu saldo de sGVI de"
+
+#: src/views/Give/RecipientModal.tsx:136
+#~ msgid "Value cannot be more than your sGVI balance of {0}"
+#~ msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:282
+#: src/views/Give/RecipientModal.tsx:154
+msgid "Value must be positive"
+msgstr "O valor tem de ser positivo"
+
+#: src/components/EducationCard.tsx:78
+#: src/components/EducationCard.tsx:148
+msgid "Vault"
+msgstr "Cofre"
+
+#: src/components/GiveProject/GrantCard.tsx:483
+#: src/components/GiveProject/ProjectCard.tsx:557
+msgid "View Details"
+msgstr "Ver Detalhes"
+
+#: src/components/EducationCard.tsx:62
+#: src/components/EducationCard.tsx:137
+#: src/components/TopBar/TopBar.tsx:65
+#: src/components/TopBar/Wallet/index.tsx:68
+#: src/components/TopBar/Wallet/index.tsx:78
+msgid "Wallet"
+msgstr "Wallet"
+
+#: src/views/Give/CausesDashboard.tsx:103
+msgid "Want to give to a different cause?"
+msgstr ""
+
+#: src/views/Give/GrantsDashboard.tsx:63
+msgid "We don't have any grants open right now, but check back soon!"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:692
+msgid "Withdraw"
+msgstr "Levantar"
+
+#: src/views/Give/ManageDonationModal.tsx:692
+msgid "Withdrawing"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:619
+#~ msgid "Withdrawing sGVI"
+#~ msgstr ""
+
+#: src/components/Sidebar/NavContent.tsx:61
+#: src/components/Sidebar/NavContent.tsx:81
+msgid "Wrap"
+msgstr "Embrulhar"
+
+#: src/views/Wrap/Wrap.tsx:22
+msgid "Wrap / Unwrap"
+msgstr "Embrulhar / Desembrulhar"
+
+#: src/slices/PendingTxnsSlice.ts:32
+msgid "Wrapping GVI"
+msgstr "A Embrulhar GVI"
+
+#: src/views/Give/YieldRecipients.tsx:79
+msgid "YIELD SENT"
+msgstr ""
+
+#: src/components/GiveProject/ProjectCard.tsx:292
+msgid "Yield"
+msgstr ""
+
+#: src/components/GiveProject/GrantCard.tsx:591
+#: src/components/GiveProject/ProjectCard.tsx:678
+#: src/views/Give/ManageDonationModal.tsx:483
+msgid "Yield Sent"
+msgstr ""
+
+#: src/views/Zap/ZapInfo.tsx:136
+msgid "You Choose"
+msgstr ""
+
+#: src/views/Zap/ZapStakeAction.tsx:356
+msgid "You Get"
+msgstr "Vai Receber"
+
+#: src/views/Zap/ZapInfo.tsx:87
+msgid "You Give"
+msgstr "Doará"
+
+#: src/views/Zap/ZapStakeAction.tsx:277
+msgid "You Pay"
+msgstr "Pagará"
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:138
+msgid "You Will Get"
+msgstr "Receberá"
+
+#: src/components/Migration/MigrationModal.tsx:125
+msgid "You are now ready to migrate"
+msgstr "Está agora pronto para migrar"
+
+#: src/views/Give/CausesDashboard.tsx:108
+msgid "You can direct your yield to a recipient of your choice"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/hooks/usePurchaseBond.ts:49
+msgid "You cannot bond more than your"
+msgstr ""
+
+#: src/views/Wrap/components/MigrateInputArea/hooks/useMigrateWsgvi.tsx:37
+msgid "You cannot migrate more than your wsGVI balance"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useStakeToken.ts:33
+msgid "You cannot stake more than your GVI balance"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:35
+msgid "You cannot unstake more than your"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/hooks/useUnwrapGgvi.tsx:32
+msgid "You cannot unwrap more than your gGVI balance"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/hooks/useWrapSgvi.tsx:32
+msgid "You cannot wrap more than your sGVI balance"
+msgstr ""
+
+#: src/components/CallToAction/CallToAction.tsx:49
+#: src/components/Migration/MigrationModal.tsx:126
+#: src/components/Migration/MigrationModalSingle.tsx:111
+msgid "You have assets ready to migrate to v2"
+msgstr "Tem ativos prontos para migrar para v2"
+
+#: src/views/Give/CallToRedeem.tsx:10
+msgid "You have redeemable yield on the old contract"
+msgstr ""
+
+#: src/views/V1-Stake/V1-Stake.jsx:237
+msgid "You must complete the migration of your assets to stake additional GVI"
+msgstr "Tem de completar a migração dos seus ativos para fazer staking de GVI adicional"
+
+#: src/views/Give/ManageDonationModal.tsx:288
+#: src/views/Give/RecipientModal.tsx:160
+msgid "You must have a balance of"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:227
+#: src/views/Give/RecipientModal.tsx:130
+#~ msgid "You must have a balance of sGVI (staked GVI) to continue"
+#~ msgstr "Tem de ter saldo em sGVI (GVI em staking) para continuar"
+
+#: src/views/Give/ManageDonationModal.tsx:584
+#: src/views/Give/RecipientModal.tsx:371
+#: src/views/Give/RecipientModal.tsx:497
+msgid "Your"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:133
+msgid "Your Balance"
+msgstr "O seu Saldo"
+
+#: src/components/GiveProject/GrantCard.tsx:561
+#: src/components/GiveProject/ProjectCard.tsx:648
+msgid "Your Donations"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:359
+#~ msgid "Your current Staked Balance is"
+#~ msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:598
+msgid "Your current deposit is"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:527
+#~ msgid "Your current deposit is {0} sGVI"
+#~ msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:513
+#: src/views/Give/RecipientModal.tsx:337
+#: src/views/Give/RecipientModal.tsx:457
+#~ msgid "Your sGVI will be tansferred into the vault when you submit. You will need to approve the transaction and pay for gas fees."
+#~ msgstr "O seu sGVI será transferido para o cofre quando submeter. Precisará de aprovar a transação e pagar pelas taxas de gás."
+
+#: src/components/Sidebar/NavContent.tsx:57
+msgid "Zap"
+msgstr ""
+
+#: src/views/Zap/ZapInfo.tsx:92
+msgid "Zap is a swap"
+msgstr "Um Zap é um swap"
+
+#: src/components/TopBar/Wallet/GetOhm.tsx:98
+msgid "Zap with more assets"
+msgstr ""
+
+#: src/views/Zap/ZapCta.tsx:41
+msgid "Zap with more assets and stake <0>GVI</0>"
+msgstr "Faça Zap com mais ativos e faça staking de <0>GVI</0>"
+
+#: src/views/Zap/ZapStakeAction.tsx:488
+#: src/views/Zap/ZapStakeAction.tsx:552
+msgid "Zap-Stake"
+msgstr "Zap-Stake"
+
+#: src/hooks/useZapExecute.ts:66
+#: src/hooks/useZapExecute.ts:67
+#: src/views/Zap/ZapStakeAction.tsx:118
+msgid "Zaps are only available on Ethereum Mainnet. Please switch networks."
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/hooks/useUnstakeToken.ts:35
+msgid "balance"
+msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:166
+msgid "balance of"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:636
+#: src/views/Give/ManageDonationModal.tsx:656
+msgid "deposit"
+msgstr ""
+
+#: src/views/Bond/components/BondList.tsx:212
+msgid "do_bond"
+msgstr "Comprar Obrigação"
+
+#. The action of staking (verb)
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:94
+msgid "do_stake"
+msgstr "Fazer Staking"
+
+#: src/views/Bond/components/BondList.tsx:137
+msgid "for"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:99
+msgid "for bonding"
+msgstr "para comprar obrigação"
+
+#: src/views/Give/RecipientModal.tsx:329
+#~ msgid "for donating"
+#~ msgstr ""
+
+#: src/views/Give/RecipientModal.tsx:361
+msgid "for donating."
+msgstr ""
+
+#: src/views/Wrap/components/MigrateInputArea/MigrateInputArea.tsx:62
+msgid "for migrating"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:108
+msgid "for staking"
+msgstr "para fazer staking"
+
+#: src/views/Stake/components/StakeArea/components/StakeInputArea/StakeInputArea.tsx:114
+#: src/views/V1-Stake/V1-Stake.jsx:254
+msgid "for unstaking"
+msgstr "para fazer unstaking"
+
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:87
+msgid "for unwrapping"
+msgstr ""
+
+#: src/views/Wrap/components/WrapInputArea/WrapInputArea.tsx:81
+msgid "for wrapping"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:99
+msgid "gGVI"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:107
+msgid "gGVI (Arbitrum)"
+msgstr "gGVI (Arbitrum)"
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:116
+msgid "gGVI (Avalanche)"
+msgstr "gGVI (Avalanche)"
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:134
+msgid "gGVI (Fantom)"
+msgstr "gGVI (Fantom)"
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:161
+msgid "gGVI (Fuse)"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:143
+msgid "gGVI (Optimism)"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:125
+msgid "gGVI (Polygon)"
+msgstr "gGVI (Polygon)"
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:152
+msgid "gGVI (Tokemak)"
+msgstr "gGVI (Tokemak)"
+
+#: src/views/V1-Stake/V1-Stake.jsx:381
+#: src/views/Wrap/components/WrapBalances.tsx:61
+msgid "gGVI Balance"
+msgstr "Saldo de gGVI"
+
+#: src/views/Wrap/components/WrapBalances.tsx:47
+msgid "gGVI Balance (Arbitrum)"
+msgstr ""
+
+#: src/views/Wrap/components/WrapBalances.tsx:31
+msgid "gGVI Balance (Avalanche)"
+msgstr ""
+
+#: src/views/Bond/components/BondModal/components/BondInputArea/BondInputArea.tsx:170
+msgid "market value and the bond's price."
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:460
+msgid "of"
+msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:460
+msgid "of Goal"
+msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:218
+msgid "of sGVI Goal"
+msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:232
+#: src/views/Give/RedeemYield.tsx:238
+#: src/views/Give/RedeemYield.tsx:244
+#: src/views/Give/RedeemYieldModal.tsx:74
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:91
+msgid "sGVI"
+msgstr "sGVI"
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:170
+msgid "sGVI (v1)"
+msgstr ""
+
+#: src/views/V1-Stake/V1-Stake.jsx:361
+#: src/views/V1-Stake/V1-Stake.jsx:375
+#: src/views/Wrap/components/WrapBalances.tsx:56
+msgid "sGVI Balance"
+msgstr "Saldo de sGVI"
+
+#: src/views/Give/RecipientModal.tsx:335
+#: src/views/Give/RecipientModal.tsx:455
+#~ msgid "sGVI Deposit"
+#~ msgstr ""
+
+#: src/components/GiveProject/ProjectCard.tsx:266
+#~ msgid "sGVI Deposit Goal"
+#~ msgstr ""
+
+#: src/components/GiveProject/GrantCard.tsx:521
+#: src/components/GiveProject/ProjectCard.tsx:312
+#: src/components/GiveProject/ProjectCard.tsx:587
+#~ msgid "sGVI Deposited"
+#~ msgstr ""
+
+#: src/views/Give/RedeemYield.tsx:194
+msgid "sGVI Goal"
+msgstr ""
+
+#: src/components/GiveProject/GrantCard.tsx:538
+#: src/components/GiveProject/ProjectCard.tsx:249
+#: src/components/GiveProject/ProjectCard.tsx:604
+#~ msgid "sGVI Yield Sent"
+#~ msgstr ""
+
+#: src/views/Give/ManageDonationModal.tsx:288
+#: src/views/Give/RecipientModal.tsx:160
+msgid "to continue"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/RebaseTimer/RebaseTimer.tsx:20
+msgid "to next rebase"
+msgstr "para o próximo rebase"
+
+#: src/views/Give/ManageDonationModal.tsx:584
+#: src/views/Give/RecipientModal.tsx:371
+#: src/views/Give/RecipientModal.tsx:497
+msgid "will be tansferred into the vault when you submit. You will need to approve the transaction and pay for gas fees."
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:179
+msgid "wsGVI"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:188
+msgid "wsGVI (Arbitrum)"
+msgstr ""
+
+#: src/views/Stake/components/StakeArea/components/StakeBalances.tsx:197
+msgid "wsGVI (Avalanche)"
+msgstr ""
+
+#: src/views/V1-Stake/V1-Stake.jsx:368
+msgid "wsGVI Balance"
+msgstr "Saldo de wsGVI"
+
+#: src/views/Wrap/components/WrapBalances.tsx:42
+msgid "wsGVI Balance (Arbitrum)"
+msgstr ""
+
+#: src/views/Wrap/components/WrapBalances.tsx:26
+msgid "wsGVI Balance (Avalanche)"
+msgstr ""
+
+#: src/views/Give/RedeemYieldModal.tsx:72
+#~ msgid "{0} sGVI"
+#~ msgstr ""
